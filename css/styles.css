@@ -11411,3 +11411,11 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+iframe
+{
+  border:5px;
+  border-style:solid;
+  border-color:#407FDF;
+  border-radius: 5px;
+}
